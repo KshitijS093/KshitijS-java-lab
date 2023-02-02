@@ -27,7 +27,7 @@ class Call implements Runnable
 	}
 }
 
-class Lab8
+class Lab7
 {
 public static void main(String xx[])
 {
